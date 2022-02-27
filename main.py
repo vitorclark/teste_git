@@ -11,5 +11,5 @@ def sum(b, a):
 
 s = sum(1,2)
 print(s)
-multi = s *2;
 
+multi = s *2;
