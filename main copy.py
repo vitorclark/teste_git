@@ -1,5 +1,5 @@
 def hello_word:
-    print('Hellow Madame')
+    print('Hellow Brasil ')
 
 hello_word()
 
@@ -11,5 +11,5 @@ def sum(b, a):
 
 s = sum(1,2)
 print(s)
-multi = s *2;
 
+atualiza_preco()
