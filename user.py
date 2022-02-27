@@ -9,5 +9,8 @@ class User{
 
   def Delete:
       print('Delete')
+  
+  def ChangeName:
+      print('ChangeName')
 
 }
