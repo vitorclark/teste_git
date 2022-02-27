@@ -11,3 +11,4 @@ def sum(b, a):
 
 s = sum(1,2)
 print(s)
+print(s*2)
