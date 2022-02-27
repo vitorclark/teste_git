@@ -1,5 +1,5 @@
 def hello_word:
-    print('Hellow word ')
+    print('Hellow Madame')
 
 hello_word()
 
@@ -11,3 +11,5 @@ def sum(b, a):
 
 s = sum(1,2)
 print(s)
+
+multi = s *2;
